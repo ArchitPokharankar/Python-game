@@ -5,6 +5,7 @@ An interactive 2D platformer built using **Pygame**, featuring a **custom level 
 ---
 
 ## 📸 Preview
+![Preview Image](https://raw.githubusercontent.com/ArchitPokharankar/Python-game/main/pygame.png)
 
 
 
