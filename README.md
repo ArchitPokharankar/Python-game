@@ -21,15 +21,3 @@ An interactive 2D platformer built using **Pygame**, featuring a **custom level 
 - 🔊 **SFX & Music** – Background music and effects like jump, hit, and coin collection.
 - 🌩️ **Particles & Effects** – Coin particles, enemy interactions.
 
-
-
----
-
-## 💻 How to Run
-
-### 1. 📦 Install Requirements
-
-Make sure Python 3 is installed, then install Pygame:
-
-```bash
-pip install pygame
